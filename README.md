@@ -1,0 +1,2 @@
+# Eterna
+Its a bot
